@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="NuGet.Packaging" Version="6.6.1" />
+  </ItemGroup>
+
 </Project>

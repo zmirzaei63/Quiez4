@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zahra\\Source\\Repos\\Quezproject\\Quezproject\\Quezproject.csproj": {}
+    "D:\\Comp367\\Queiz4\\Project\\Quiez4\\Quezproject\\Quezproject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zahra\\Source\\Repos\\Quezproject\\Quezproject\\Quezproject.csproj": {
+    "D:\\Comp367\\Queiz4\\Project\\Quiez4\\Quezproject\\Quezproject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zahra\\Source\\Repos\\Quezproject\\Quezproject\\Quezproject.csproj",
+        "projectUniqueName": "D:\\Comp367\\Queiz4\\Project\\Quiez4\\Quezproject\\Quezproject.csproj",
         "projectName": "Quezproject",
-        "projectPath": "C:\\Users\\Zahra\\Source\\Repos\\Quezproject\\Quezproject\\Quezproject.csproj",
+        "projectPath": "D:\\Comp367\\Queiz4\\Project\\Quiez4\\Quezproject\\Quezproject.csproj",
         "packagesPath": "C:\\Users\\Zahra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zahra\\Source\\Repos\\Quezproject\\Quezproject\\obj\\",
+        "outputPath": "D:\\Comp367\\Queiz4\\Project\\Quiez4\\Quezproject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zahra\\AppData\\Roaming\\NuGet\\NuGet.Config",
